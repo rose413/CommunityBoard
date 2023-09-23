@@ -38,6 +38,7 @@ GIF created with ScreenToGif
 
 ## Notes
 - I mostly had a challenge with the images showing up on screen with a prop. I had to instead not use props with the images for the website to display them.
+- I also had some trouble with the CSS rules and making sure the flexbox was correct for the card components.
 
 ## License
 
