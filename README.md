@@ -1,23 +1,22 @@
-# CommunityDashboard
+# Web Development Project 1 - Computer Science Fields
 
-# Web Development Project 1 - *Name of App Here*
+Submitted by: **Irene Chang**
 
-Submitted by: **Your Name Here**
+This web app: **shows the different computer science fields one could study in. It displays the name of the field, image, and button which has a link
+where users can learn more about a specific field.**
 
-This web app: **insert description**
-
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [X] **There is a unique theme for events or resources relevant to a specific community**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
+- [X] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
@@ -31,15 +30,14 @@ Here's a walkthrough of implemented required features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+- I mostly had a challenge with the images showing up on screen with a prop. I had to instead not use props with the images for the website to display them.
 
 ## License
 
